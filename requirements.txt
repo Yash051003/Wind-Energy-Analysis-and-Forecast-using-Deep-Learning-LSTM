@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+
+#Libs for LSTM
+
+scikit-learn
+tensorflow
+ipykernel
+jupyter
